@@ -1,5 +1,11 @@
 body{
     background-color: aquamarine;
     color:rgb(149, 243, 56);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Dancing Script", cursive;  
+}
+reader{
+    font-size: 100px;
+}
+h1{
+    font-size: 30px;
 }
