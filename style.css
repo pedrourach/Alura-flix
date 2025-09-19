@@ -1,15 +1,21 @@
 body{
     background-color: aquamarine;
-    color:rgb(149, 243, 56);
-    font-family: "Dancing Script", cursive;  
+    color: rgb(58, 163, 2);
+    font-family: "Epunda Slab", serif;
+    margin: 0px;
 }
-reader{
-    font-size: 100px;
-    border: double 5px black;
+header{
+    font-size: 50px;
+    border:   double  5px rgb(214, 7, 14);
+    text-align: center;
+   /* margin: 30px;*/
+padding: 20px;
 }
+
 h1{
     font-size: 30px;
 }
+
 p{
     font-size: 20px;
 }
