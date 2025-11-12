@@ -1,15 +1,16 @@
 body{
-    background-color: aquamarine;
-    color: rgb(58, 163, 2);
-    font-family: "Epunda Slab", serif;
+    background-color: rgb(210, 234, 243);
+    color: rgb(67, 107, 227);
+    font-family: "Star Story", serif;
     margin: 0px;
 }
 header{
     font-size: 50px;
-    border:   double  5px rgb(214, 7, 14);
+    border:   double  5px rgb(139, 44, 228);
     text-align: center;
    /* margin: 30px;*/
 padding: 20px;
+    color: rgb(20, 206, 181);
 }
 
 h1{
@@ -18,4 +19,14 @@ h1{
 
 p{
     font-size: 20px;
+}
+
+
+section{
+     background-color: cadetblue;
+padding-bottom: 80px;
+display: flex;
+justify-content: center;
+
+
 }
